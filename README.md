@@ -2,7 +2,7 @@
 
 AI-powered app that turns your meeting recordings into instant summaries, action items, and key decisions — all in your language, all in one click.
 
-Try it here 👉 [Live App](https://your-app-url.streamlit.app)
+Try it here 👉 [Live App](https://ai-meeting-assistant-g2qpmfyyue8mhqttlxgy5u.streamlit.app/)
 
 ---
 
