@@ -34,7 +34,7 @@ You are free to use the app via the hosted version above.
 **You may not reuse, copy, or redistribute the code in this repository** or deploy your own version without permission.
 
 > To license this software or collaborate:  
-📩 reaz.pfec.com
+📩 reaz.pfec@gmail.com
 
 ---
 
